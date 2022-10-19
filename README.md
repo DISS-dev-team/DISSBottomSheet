@@ -22,7 +22,7 @@ BottomSheet can be added to your app via Swift Package Manager in Xcode using th
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/DISS-dev-team/DISSBottomSheet.git", from: "1.0.0")
+    .package(url: "https://github.com/DISS-dev-team/DISSBottomSheet.git", from: "0.0.1")
 ]
 ```
 
